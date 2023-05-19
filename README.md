@@ -1,3 +1,3 @@
 Personal site navigation 🧭  
-
-- [**treehouse🌲**](https://zealleaf.me)
+- [**🌱me**](https://zealleaf.me)
+- [**🌲treehouse**](https://treehouse.zealleaf.me)
